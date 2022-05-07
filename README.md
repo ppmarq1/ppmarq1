@@ -20,7 +20,6 @@ Hi, I'm Pedro Marques, a Ex-Executive of IT 🚀 from Portugal, currently, I'm a
 - 🌱 I’m currently learning JavaScript;
 -  👨‍🎓I’m mentoring the new Students at @microverseinc ☺ ;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: no fuct apparently ;
 - 📫 How to reach me: ppmarq1@gmail.com;
 
 **Languages and Tools:**
