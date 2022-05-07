@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm Pedro Marques
+### Hey 👋, I'm Pedro Marques
 
 <a href="https://twitter.com/ppmarq1">
   <img align="left" alt="Pedro Marques'  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
