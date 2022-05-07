@@ -12,7 +12,8 @@
 
 Hi, I'm Pedro Marques, a Ex-Executive of IT 🚀 from Portugal, currently, I'm a student and Mentor of Microverse. Beside's Project Management and Programming, I enjoy playing Tennis and watching movies.
 
-  <iframe src="https://giphy.com/embed/QpVUMRUJGokfqXyfa1" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/one-numbers-binary-code-QpVUMRUJGokfqXyfa1">via GIPHY</a></p>
+  <img align="right" alt="GIF" src="https://giphy.com/embed/QpVUMRUJGokfqXyfa1/giphy.gif" />
+  
   
 **Talking about Personal Stuffs:**
 
