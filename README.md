@@ -10,14 +10,14 @@
 <br />
 <br />
 
-Hi, I'm Pedro Marques, a Ex-Executive of IT 🚀 from Portugal, currently, I'm a student and Mentor of Microverse. Beside's Project Managemente and Programming, I enjoy playing Tennis and watching movies
+Hi, I'm Pedro Marques, a Ex-Executive of IT 🚀 from Portugal, currently, I'm a student and Mentor of Microverse. Beside's Project Management and Programming, I enjoy playing Tennis and watching movies.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <iframe src="https://giphy.com/embed/QpVUMRUJGokfqXyfa1" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/one-numbers-binary-code-QpVUMRUJGokfqXyfa1">via GIPHY</a></p>
   
 **Talking about Personal Stuffs:**
 
 - 🌱 I’m currently learning JavaScript;
-- 🤔 I’m looking for help with DOM 😭;
+- I’m mentoring the new Students at @microverseinc ;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: no fuct apparently ;
 - 📫 How to reach me: ppmarq1@gmail.com;
