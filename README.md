@@ -12,7 +12,7 @@
 
 Hi, I'm Pedro Marques, a Ex-Executive of IT 🚀 from Portugal, currently, I'm a student and Mentor of Microverse. Beside's Project Management and Programming, I enjoy playing Tennis and watching movies.
 
-  <img align="right" alt="GIF" src="https://giphy.com/embed/QpVUMRUJGokfqXyfa1/giphy.gif" />
+  <img align="right" alt="GIF" src="https://giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" />
   
   
 **Talking about Personal Stuffs:**
