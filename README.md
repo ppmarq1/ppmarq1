@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Hi, I'm Pedro Marques, a Ex-Executive of IT 🚀 from Portugal, currently, I'm a student and Mentor of Microverse. Beside's Project Management and Programming, I enjoy playing Tennis and watching movies.
+Hi, I'm Pedro Marques, a Ex-Executive of IT 🚀 from Portugal, currently, I'm a student and Mentor of Microverse to become a Full Stack Developer and improve my Professional Profile. Beside's Project Management and Programming, I enjoy playing Tennis and watching movies.
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" />
   
