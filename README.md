@@ -9,14 +9,14 @@
 
 <br />
 <br />
-🌟 My name is Pedro Marques, from Brazil and living in Lisbon - Portugal.
-
+🌟 I am from Brazil and living in Lisbon, Portugal - Europe.
+<br />
 🏂 I'm a student and Mentor of Microverse.
-
+<br />
 🔆 I'm a Full-Stack Developer with knowledge of HTML, CSS, JavaScript, and PHP, and I have solid experience as a Senior Project Manager. I am looking for a Remote Tech job.
-
+<br />
 🖱️ Find me on my email: ppmarq1@gmmail.com
-
+<br />
 [My Portfolio](https://ppmarq1.github.io/Mobile-Version/)
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" />
