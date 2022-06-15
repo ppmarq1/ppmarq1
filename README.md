@@ -22,7 +22,7 @@
   
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning JavaScript;
+- 🌱 I’m currently learning JavaScript, React & Redux;
 - 👨‍🎓 I’m studying and mentoring the new Students at @microverseinc ☺ ;
 - 💬 Ask me about anything, I am happy to help;
 
