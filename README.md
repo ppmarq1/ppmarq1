@@ -6,6 +6,9 @@
 <a href="https://www.linkedin.com/in/pedroalmeidamarques/">
   <img align="left" alt="Pedro Marques's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://angel.co/u/pedro-almeida-marques">
+  <img align="left" alt="Pedro Marques's AngelList" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angelList.svg" />
+</a>
 
 <br />
 <br />
