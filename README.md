@@ -14,7 +14,7 @@
 <br />
 🌟 I am from Brazil and living in Lisbon, Portugal - Europe.
 <br />
-🔆 I'm a Full-Stack Developer with knowledge of HTML, CSS, JavaScript, and PHP, and I have solid experience as a Senior Project Manager. I am looking for a Remote Tech job.
+🔆 I'm a Full-Stack Developer with knowledge of JavaScript, React, Redux, PHP, and I have solid experience as a Senior Project Manager. I am looking for a Remote Tech job.
 <br />
 📫 How to reach me: ppmarq1@gmail.com;
 <br />
@@ -34,7 +34,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 <br />
 <br />
