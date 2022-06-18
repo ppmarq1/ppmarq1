@@ -16,7 +16,7 @@
 <br />
 🔆 I'm a Full-Stack Developer with knowledge of HTML, CSS, JavaScript, and PHP, and I have solid experience as a Senior Project Manager. I am looking for a Remote Tech job.
 <br />
-🖱️ Find me on my email: ppmarq1@gmail.com .
+- 📫 How to reach me: ppmarq1@gmail.com;
 <br />
 [My Portfolio](https://ppmarq1.github.io/Mobile-Version/)
 
