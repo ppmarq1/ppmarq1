@@ -42,3 +42,9 @@
 <br />
 
 ![Pedro Marques's github stats](https://github-readme-stats.vercel.app/api?username=ppmarq1&theme=dark&show_icons=true)
+<br />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppmarq1&hide=php&theme=algolia&layout=compact" />
+</p>
+
+
