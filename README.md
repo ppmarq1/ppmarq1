@@ -14,7 +14,7 @@
 <br />
 🌟 I am from Brazil and living in Lisbon, Portugal - Europe.
 <br />
-🔆 I'm a Full-Stack Developer with knowledge of JavaScript, React, Redux, PHP, and I have solid experience as a Senior Project Manager. I am looking for a Remote Tech job.
+🔆 I'm a Full-Stack Developer with knowledge of JavaScript, React, Redux, Ruby on Rails, and I have solid experience as a Senior Project Manager. I am looking for a Remote Tech job opportunity.
 <br />
 📫 How to reach me: ppmarq1@gmail.com;
 <br />
