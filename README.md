@@ -25,7 +25,7 @@
   
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning JavaScript and Ruby;
+- 🌱 I’m currently searching for a job opportunity as a Junior Full-stack Developer;
 - 👨‍🎓 I’m studying and mentoring the new Students at @microverseinc ☺ ;
 - 💬 Ask me about anything, I am happy to help;
 
