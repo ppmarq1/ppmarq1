@@ -79,11 +79,10 @@
 
 <br />
 <br />
-<p align="center">
-![Pedro Marques's github stats](https://github-readme-stats.vercel.app/api?username=ppmarq1&theme=dark&show_icons=true)
-</p>
+# 📊GitHub Stats :
 
-<br />
+![](https://github-readme-stats.vercel.app/api?username=ppmarq1&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
+
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppmarq1&hide=php&theme=algolia&layout=compact" />
