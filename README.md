@@ -25,21 +25,43 @@
   
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently searching for a job opportunity as a Junior Full-stack Developer;
-- 👨‍🎓 I’m studying and mentoring the new Students at @microverseinc ☺ ;
+- 🌱 I’m currently searching for a job opportunity as a Junior Backend Developer;
+- 👨‍🎓 I’m mentoring the new Students at @microverseinc ☺ ;
 - 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=github" alt="github"  width="40px" height="40px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma"  width="40px" /> 
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=js" alt="JavaScript"  width="40px" /> 
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5"  width="40px" />  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3"  width="40px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=sass" alt="sass"  width="40px" height="40px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git"  width="40px" />  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql" alt="MySQL"  width="40px" />  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=postgres" alt="postgres"  width="40px" />         
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap"  width="40px" />  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=jest" alt="Jest"  width="40px" height="40px" />  
+<img style="margin: 10px" src="https://github.com/gilbarbara/logos/blob/master/logos/postman-icon.svg" alt="postman"  width="40px" height="40px" />  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="react"  width="40px" height="40px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode" alt="vscode"  width="40px" height="40px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=webpack" alt="webpack"  width="40px" height="40px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=heroku" alt="heroku"  width="40px" height="40px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=netlify" alt="netlify"  width="40px" height="40px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=redux" alt="redux"  width="40px" height="40px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=ruby" alt="ruby"  width="40px" height="40px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=rails" alt="rails"  width="40px" height="40px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="linux"  width="40px" height="40px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu"  width="40px" height="40px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=terminal" alt="terminal"  width="40px" height="40px" />
+</div>
 
 <br />
 <br />
+
+**Languages and Tools:**
+
+<a href="https://www.credential.net/216dd499-73bd-4871-8bfd-6d545b8b47ce#gs.gkf6lm" target="_blank"><img src="./images/fullstack.png" alt="full-stack"  width="80"></a>
 
 ![Pedro Marques's github stats](https://github-readme-stats.vercel.app/api?username=ppmarq1&theme=dark&show_icons=true)
 <br />
