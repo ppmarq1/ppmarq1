@@ -23,7 +23,7 @@
  <img align="right" alt="GIF" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" />
   
   
-###Talking about Personal Stuffs:
+## Talking about Personal Stuffs:
 
 - 🌱 I’m currently searching for a job opportunity as a Junior Backend Developer;
 - 👨‍🎓 I’m mentoring the new Students at @microverseinc ☺ ;
@@ -34,7 +34,7 @@
 <br />
 
 
-###Languages and Tools:
+## Languages and Tools:
 
 <div align="left">
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=github" alt="github"  width="40px" height="40px" />
