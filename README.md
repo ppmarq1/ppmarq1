@@ -61,11 +61,12 @@
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=terminal" alt="terminal"  width="40px" height="40px" />
 </div>
 
-
-**Languages and Tools:**
+<br />
+<br />
+**Certificates:**
 
 <a href="https://www.credential.net/216dd499-73bd-4871-8bfd-6d545b8b47ce#gs.gkf6lm" target="_blank"><img src="./images/fullstack.png" alt="full-stack"  width="80"></a>
-
+<br />
 ![Pedro Marques's github stats](https://github-readme-stats.vercel.app/api?username=ppmarq1&theme=dark&show_icons=true)
 <br />
 <p align="center">
