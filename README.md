@@ -79,8 +79,9 @@
 
 <br />
 <br />
-
+<p align="center">
 ![Pedro Marques's github stats](https://github-readme-stats.vercel.app/api?username=ppmarq1&theme=dark&show_icons=true)
+</p>
 
 <br />
 
