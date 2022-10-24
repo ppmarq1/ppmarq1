@@ -79,10 +79,12 @@
 
 <br />
 <br />
-# 📊GitHub Stats :
+### 📊GitHub Stats :
 
 <p align="center">
-![](https://github-readme-stats.vercel.app/api?username=ppmarq1&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ppmarq1&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)
+</p>
+<br/>
 
 
 <p align="center">
