@@ -81,6 +81,7 @@
 <br />
 # 📊GitHub Stats :
 
+<p align="center">
 ![](https://github-readme-stats.vercel.app/api?username=ppmarq1&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
 
@@ -88,4 +89,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppmarq1&hide=php&theme=algolia&layout=compact" />
 </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ppmarq1&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
