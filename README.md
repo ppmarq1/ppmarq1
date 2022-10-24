@@ -68,7 +68,8 @@
 ### Certificates:
 <br />
 
-<a href="https://www.credential.net/216dd499-73bd-4871-8bfd-6d545b8b47ce#gs.gkf6lm" target="_blank"><img src="./images/fullstack.png" alt="full-stack"  width="200"></a>
+<p align="left">
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/5f23de75-7a5e-45f3-b7c2-ad4330f73dd8#gs.gkn0sa" target="_blank"><img src="./images/html-css.png" alt="html-css"  width="120"></a><a href="https://www.credential.net/7e3b5b92-cba9-4fbd-bda4-9481ec2aee67#gs.gkjhsd" target="_blank"><img src="./images/javascript.png" alt="javascript"  width="120"></a><a href="https://www.credential.net/264e62ac-a4b3-4019-994e-da535b9a3541#gs.gkjqk6" target="_blank"><img src="./images/react-redux.png" alt="react-redux"  width="120"></a><a href="https://www.credential.net/87c162d7-c61f-4cd3-8d7d-ed2c15ffc911#gs.gkmrp5" target="_blank"><img src="./images/ruby.png" alt="ruby"  width="120"></a><a href="https://www.credential.net/216dd499-73bd-4871-8bfd-6d545b8b47ce#gs.gkf6lm" target="_blank"><img src="./images/fullstack.png" alt="full-stack"  width="120"></a>
 
 <br />
 <br />
