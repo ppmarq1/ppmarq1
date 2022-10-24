@@ -68,7 +68,7 @@
 ### Certificates:
 <br />
 
-<a href="https://www.credential.net/216dd499-73bd-4871-8bfd-6d545b8b47ce#gs.gkf6lm" target="_blank"><img src="./images/fullstack.png" alt="full-stack"  width="80"></a>
+<a href="https://www.credential.net/216dd499-73bd-4871-8bfd-6d545b8b47ce#gs.gkf6lm" target="_blank"><img src="./images/fullstack.png" alt="full-stack"  width="200"></a>
 
 <br />
 <br />
