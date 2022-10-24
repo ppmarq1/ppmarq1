@@ -29,8 +29,13 @@
 - 👨‍🎓 I’m mentoring the new Students at @microverseinc ☺ ;
 - 💬 Ask me about anything, I am happy to help;
 
-**Languages and Tools:**
 
+<br />
+<br />
+
+
+**Languages and Tools:**
+<div align="left">
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=github" alt="github"  width="40px" height="40px" />
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma"  width="40px" /> 
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=js" alt="JavaScript"  width="40px" /> 
@@ -56,8 +61,6 @@
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=terminal" alt="terminal"  width="40px" height="40px" />
 </div>
 
-<br />
-<br />
 
 **Languages and Tools:**
 
