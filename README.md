@@ -18,9 +18,6 @@
 <br />
 📫 How to reach me: ppmarq1@gmail.com;
 <br />
-<br />
-<br />
-
 [My Portfolio Link](https://my-portfolio-ppmarq1.netlify.app/)
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" />
