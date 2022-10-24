@@ -19,7 +19,7 @@
 📫 How to reach me: ppmarq1@gmail.com;
 <br />
 [My Portfolio Link](https://my-portfolio-ppmarq1.netlify.app/)
-
+<br />
  <img align="right" alt="GIF" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" />
   
   
@@ -30,6 +30,7 @@
 - 💬 Ask me about anything, I am happy to help;
 
 
+<br />
 <br />
 <br />
 <br />
