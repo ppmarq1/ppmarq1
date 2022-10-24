@@ -1,4 +1,4 @@
-### Hey 👋, I'm Pedro Marques
+## Hey 👋, I'm Pedro Marques
 
 <a href="https://twitter.com/ppmarq1">
   <img align="left" alt="Pedro Marques'  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -23,7 +23,7 @@
  <img align="right" alt="GIF" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" />
   
   
-## Talking about Personal Stuffs:
+### Talking about Personal Stuffs:
 
 - 🌱 I’m currently searching for a job opportunity as a Junior Backend Developer;
 - 👨‍🎓 I’m mentoring the new Students at @microverseinc ☺ ;
@@ -34,7 +34,7 @@
 <br />
 
 
-## Languages and Tools:
+### Languages and Tools:
 
 <div align="left">
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=github" alt="github"  width="40px" height="40px" />
@@ -65,7 +65,7 @@
 <br />
 <br />
 
-###Certificates:
+### Certificates:
 <br />
 
 <a href="https://www.credential.net/216dd499-73bd-4871-8bfd-6d545b8b47ce#gs.gkf6lm" target="_blank"><img src="./images/fullstack.png" alt="full-stack"  width="80"></a>
