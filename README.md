@@ -14,7 +14,7 @@
 <br />
 🌟 I am from Brazil and living in Lisbon, Portugal - Europe.
 <br />
-🔆 I'm a Full-Stack Developer with knowledge of JavaScript, React, Redux, Ruby on Rails, and I have solid experience as a Senior Project Manager. I am looking for a Remote Tech job opportunity.
+🔆 I'm Project Manager with knowledge of JavaScript, React, Redux, Ruby on Rails. I have solid experience in Project Management. I am looking for a Remote Tech job opportunity.
 <br />
 📫 How to reach me: ppmarq1@gmail.com;
 <br />
@@ -25,7 +25,7 @@
   
 ### Talking about Personal Stuffs:
 
-- 🌱 I’m currently searching for a job opportunity as a Junior Backend Developer;
+- 🌱 I’m currently searching for a job opportunity as a Project Manager | Product Manager;
 - 👨‍🎓 I’m mentoring the new Students at @microverseinc ☺ ;
 - 💬 Ask me about anything, I am happy to help;
 
