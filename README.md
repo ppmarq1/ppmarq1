@@ -12,7 +12,7 @@
 
 <br />
 <br />
-🌟 I am from Brazil and living in Lisbon, Portugal - Europe.
+🌟 I am living in Lisbon, Portugal - Europe.
 <br />
 🔆 I'm Project Manager with knowledge of JavaScript, React, Redux, Ruby on Rails. I have solid experience in Project Management. I am looking for a Remote Tech job opportunity.
 <br />
